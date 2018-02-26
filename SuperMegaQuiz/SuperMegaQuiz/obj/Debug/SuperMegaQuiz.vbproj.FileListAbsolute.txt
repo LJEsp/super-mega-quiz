@@ -1,0 +1,14 @@
+C:\Users\LJE\source\repos\SuperMegaQuiz\SuperMegaQuiz\bin\Debug\SuperMegaQuiz.exe.config
+C:\Users\LJE\source\repos\SuperMegaQuiz\SuperMegaQuiz\bin\Debug\SuperMegaQuiz.exe
+C:\Users\LJE\source\repos\SuperMegaQuiz\SuperMegaQuiz\bin\Debug\SuperMegaQuiz.pdb
+C:\Users\LJE\source\repos\SuperMegaQuiz\SuperMegaQuiz\bin\Debug\SuperMegaQuiz.xml
+C:\Users\LJE\source\repos\SuperMegaQuiz\SuperMegaQuiz\obj\Debug\SuperMegaQuiz.vbprojResolveAssemblyReference.cache
+C:\Users\LJE\source\repos\SuperMegaQuiz\SuperMegaQuiz\obj\Debug\SuperMegaQuiz.Resources.resources
+C:\Users\LJE\source\repos\SuperMegaQuiz\SuperMegaQuiz\obj\Debug\SuperMegaQuiz.vbproj.GenerateResource.Cache
+C:\Users\LJE\source\repos\SuperMegaQuiz\SuperMegaQuiz\obj\Debug\SuperMegaQuiz.vbproj.CoreCompileInputs.cache
+C:\Users\LJE\source\repos\SuperMegaQuiz\SuperMegaQuiz\obj\Debug\SuperMegaQuiz.exe
+C:\Users\LJE\source\repos\SuperMegaQuiz\SuperMegaQuiz\obj\Debug\SuperMegaQuiz.xml
+C:\Users\LJE\source\repos\SuperMegaQuiz\SuperMegaQuiz\obj\Debug\SuperMegaQuiz.pdb
+C:\Users\LJE\source\repos\SuperMegaQuiz\SuperMegaQuiz\bin\Debug\MySql.Data.dll
+C:\Users\LJE\source\repos\SuperMegaQuiz\SuperMegaQuiz\bin\Debug\MySql.Data.xml
+C:\Users\LJE\source\repos\SuperMegaQuiz\SuperMegaQuiz\obj\Debug\SuperMegaQuiz.frmMain.resources
